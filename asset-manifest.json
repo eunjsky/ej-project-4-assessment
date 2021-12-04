@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eunjsky/ej-project-4-assessment.git/static/css/main.222c749e.chunk.css",
+    "main.js": "/eunjsky/ej-project-4-assessment.git/static/js/main.385824dd.chunk.js",
+    "main.js.map": "/eunjsky/ej-project-4-assessment.git/static/js/main.385824dd.chunk.js.map",
+    "runtime-main.js": "/eunjsky/ej-project-4-assessment.git/static/js/runtime-main.b78ca293.js",
+    "runtime-main.js.map": "/eunjsky/ej-project-4-assessment.git/static/js/runtime-main.b78ca293.js.map",
+    "static/js/2.75d4eddd.chunk.js": "/eunjsky/ej-project-4-assessment.git/static/js/2.75d4eddd.chunk.js",
+    "static/js/2.75d4eddd.chunk.js.map": "/eunjsky/ej-project-4-assessment.git/static/js/2.75d4eddd.chunk.js.map",
+    "static/js/3.dffdcf19.chunk.js": "/eunjsky/ej-project-4-assessment.git/static/js/3.dffdcf19.chunk.js",
+    "static/js/3.dffdcf19.chunk.js.map": "/eunjsky/ej-project-4-assessment.git/static/js/3.dffdcf19.chunk.js.map",
+    "index.html": "/eunjsky/ej-project-4-assessment.git/index.html",
+    "static/css/main.222c749e.chunk.css.map": "/eunjsky/ej-project-4-assessment.git/static/css/main.222c749e.chunk.css.map",
+    "static/js/2.75d4eddd.chunk.js.LICENSE.txt": "/eunjsky/ej-project-4-assessment.git/static/js/2.75d4eddd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b78ca293.js",
+    "static/js/2.75d4eddd.chunk.js",
+    "static/css/main.222c749e.chunk.css",
+    "static/js/main.385824dd.chunk.js"
+  ]
+}
